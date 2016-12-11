@@ -1,0 +1,32 @@
+html {
+    font-size: 16px;
+    background-color: #88BBD6;
+    font-family: "Merriweather", serif;
+}
+
+body {
+    width: 800px;
+    margin: 10px auto;
+    background-color: #E9E9E9;
+    padding: 0 20px 20px 20px;
+    border: 3px solid black;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 3px 3px 1px black;
+    color: #88BBD6;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
